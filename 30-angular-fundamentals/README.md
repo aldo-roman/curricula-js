@@ -48,6 +48,25 @@ y con capacidades end-to-end.
 * Cómo probar aplicaciones Angular
 * Cómo desplegar aplicaciones Angular
 
+## Metodología
+Deberás cubrir todas las Lecturas obligatorias y cumplir las Acciones
+obligatorias, si las hubiera. En algunos casos, esto incluirá publicar
+código fuente.
+
+Durante las sesiones presenciales expandiremos el contenido de las
+Lecturas obligatorias, absolveremos dudas y haremos ejemplos juntos.
+
+Las lecturas, código fuente, mensajes de git, discusiones, entre otros
+deberán ser escritas en inglés. :blush:
+
+Los ejercicios publicados serán sometidos a revisión de pares (Code review).
+Revisar el código de tus compañeros será evaluado; sin embargo, recibir
+observaciones o comentarios durante la revisión de pares no afectará tu
+evaluación.
+
+Cada sesión tendrá un ejercicio, que debe ser codificado y publicado antes
+del final del curso.
+
 ## Producto
 
 [TODO]
@@ -73,18 +92,26 @@ plantillas y data binding.
 fuente en Github. No es necesario modificar el código generado por el CLI
 (pero... por qué no? :eyes:).
 
-### Semana 02:
+#### Ejercicio
 
+### Semana 02:
+Formularios.
 [TODO]
 
 ### Semana 03:
-
+Consumo de servicios web.
 [TODO]
 
 ### Semana 04:
-
+Enrutamiento y navegación
 [TODO]
 
 ## Evaluación
 
-[TODO]
+Para aprobar:
+1. Codificar y publicar todos los ejercicios dejados durante el curso.
+Los ejercicios son acumulativos.
+No existe examen o proyecto final. :dancer:
+2. Todo código debe contener Pruebas unitarias. 
+3. Efectuar la Revisión de código y escribir al menos un comentario
+en el proyecto de alguno de tus compañeros.
