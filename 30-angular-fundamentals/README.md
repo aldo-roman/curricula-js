@@ -50,7 +50,7 @@ y con capacidades end-to-end.
 
 ## Metodología
 Deberás cubrir todas las Lecturas obligatorias y cumplir las Acciones
-obligatorias, si las hubiera. En algunos casos, esto incluirá publicar
+obligatorias, *antes de la clase*. En algunos casos, esto incluirá publicar
 código fuente.
 
 Durante las sesiones presenciales expandiremos el contenido de las
@@ -78,17 +78,18 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
 
 ### Semana 01:
 
-Presentación de Angular, tooling setup, creación de repositorios, 
-plantillas y data binding.
+Presentación de Angular, tooling setup, creación de repositorios, plantillas y data binding.
 
 #### Lecturas Obligatorias 
 1. Angular CLI: https://github.com/angular/angular-cli/wiki 
 2. Qué es un componente: https://angular.io/api/core/Component#description
 3. Mostrar datos: https://angular.io/guide/displaying-data
+4. Desplegar Angular en Firebase: https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase
 
 #### Lecturas Opcionales
 1. Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 2. Qué es un módulo: https://angular.io/guide/bootstrapping
+3. Firebase: https://firebase.google.com
 
 #### Acciones obligatorias
 1. Crear un proyecto Angular utilizando Angular CLI y publicar el código
