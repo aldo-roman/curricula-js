@@ -49,9 +49,8 @@ y con capacidades end-to-end.
 * Cómo desplegar aplicaciones Angular
 
 ## Metodología
-Deberás cubrir todas las Lecturas obligatorias y cumplir las Acciones
-obligatorias, *antes de la clase*. En algunos casos, esto incluirá publicar
-código fuente.
+Deberás cubrir todas las Lecturas obligatorias **antes de la clase**.
+En algunos casos, esto incluirá publicar código fuente.
 
 Durante las sesiones presenciales expandiremos el contenido de las
 Lecturas obligatorias, absolveremos dudas y haremos ejemplos juntos.
@@ -106,13 +105,15 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
     <td>https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase</td>
   </tr>
   <tr>
-    <th rowspan="1">Acciones obligatorias</td>
+    <th rowspan="1">Antes de clase</td>
     <td colspan="2">Crear un proyecto utilizando Angular CLI y publicar el código fuente en Github.
         No es necesario modificar el código generado por el CLI (pero... por qué no? :eyes:)</td>
   </tr>
+  <tr>
+    <th rowspan="1">Ejercicio</td>
+    <td colspan="2">TBD</td>
+  </tr>
 </table>
-
-#### Ejercicio
 
 ### Semana 02: Formularios
 
@@ -130,6 +131,10 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
     <th rowspan="2">Lecturas Opcionales</td>
     <td>Validadores personalizados</td>
     <td>https://angular.io/guide/form-validation#custom-validators</td>
+  </tr>
+  <tr>
+    <th rowspan="1">Ejercicio</td>
+    <td colspan="2">TBD</td>
   </tr>
 </table>
       
@@ -150,10 +155,25 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
     <td>Cross-Site Request Forgery</td>
     <td>https://en.wikipedia.org/wiki/Cross-site_request_forgery</td>
   </tr>
+  <tr>
+    <th rowspan="1">Ejercicio</td>
+    <td colspan="2">TBD</td>
+  </tr>
 </table>
 
 ### Semana 04: Enrutamiento y navegación
-[TODO]
+
+<table>
+  <tr>
+    <th rowspan="2">Lecturas Obligatorias</td>
+    <td>Enrutamiento y Navegación</td>
+    <td>https://angular.io/guide/router</td>
+  </tr>
+  <tr>
+    <th rowspan="1">Ejercicio</td>
+    <td colspan="2">TBD</td>
+  </tr>
+</table>
 
 ## Evaluación
 
