@@ -76,32 +76,63 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
 
 ## Syllabus
 
-### Semana 01:
+### Semana 01: Pantillas y Data binding
 
-Presentación de Angular, tooling setup, creación de repositorios, plantillas y data binding.
-
-#### Lecturas Obligatorias 
-1. Angular CLI: https://github.com/angular/angular-cli/wiki 
-2. Qué es un componente: https://angular.io/api/core/Component#description
-3. Mostrar datos: https://angular.io/guide/displaying-data
-4. Desplegar Angular en Firebase: https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase
-
-#### Lecturas Opcionales
-1. Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-2. Qué es un módulo: https://angular.io/guide/bootstrapping
-3. Firebase: https://firebase.google.com
-
-#### Acciones obligatorias
-1. Crear un proyecto Angular utilizando Angular CLI y publicar el código
-fuente en Github. No es necesario modificar el código generado por el CLI
-(pero... por qué no? :eyes:).
+<table>
+  <tr>
+    <th rowspan="4">Lecturas Obligatorias</td>
+    <td>Angular CLI</td>
+    <td>https://github.com/angular/angular-cli/wiki</td>
+  </tr>
+  <tr>
+    <td>Qué es un componente</td>
+    <td>https://angular.io/api/core/Component#description</td>
+  </tr>
+  <tr>
+    <td>Mostrar datos</td>
+    <td>https://angular.io/guide/displaying-data</td>
+  </tr>
+  <tr>
+    <td>Flexbox</td>
+    <td>https://css-tricks.com/snippets/css/a-guide-to-flexbox/</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Lecturas Opcionales</td>
+    <td>Qué es un módulo</td>
+    <td>https://angular.io/guide/bootstrapping</td>
+  </tr>
+  <tr>
+    <td>Desplegar Angular en Firebase</td>
+    <td>https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase</td>
+  </tr>
+  <tr>
+    <th rowspan="1">Acciones obligatorias</td>
+    <td colspan="2">Crear un proyecto utilizando Angular CLI y publicar el código fuente en Github.
+        No es necesario modificar el código generado por el CLI (pero... por qué no? :eyes:)</td>
+  </tr>
+</table>
 
 #### Ejercicio
 
-### Semana 02:
-Formularios.
-[TODO]
+### Semana 02: Formularios
 
+<table>
+  <tr>
+    <th rowspan="2">Lecturas Obligatorias</td>
+    <td>Formularios Reactivos</td>
+    <td>https://angular.io/guide/reactive-forms</td>
+  </tr>
+  <tr>
+    <td>Validación de formularios</td>
+    <td>https://angular.io/guide/form-validation#reactive-form-validation</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Lecturas Opcionales</td>
+    <td>Validadores personalizados</td>
+    <td>https://angular.io/guide/form-validation#custom-validators</td>
+  </tr>
+</table>
+      
 ### Semana 03:
 Consumo de servicios web.
 [TODO]
