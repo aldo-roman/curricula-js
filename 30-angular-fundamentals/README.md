@@ -72,7 +72,7 @@ Construiremos un juego multijugador basado en [Cadáver Exquisito](https://es.wi
 >  Es una técnica usada por los surrealistas en 1925, (...) en el cual los jugadores escriben por turno en una hoja de papel, la doblan para cubrir parte de la escritura, y después la pasan al siguiente jugador para otra colaboración.
 >  Los teóricos y asiduos al juego (...) sostenían que la creación, en especial la poética, debe ser anónima y grupal, intuitiva, espontánea, lúdica y en lo posible automática.
 
-Idealmente, el juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/) 
+El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/).
 
 ## Syllabus
 
