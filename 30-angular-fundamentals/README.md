@@ -1,4 +1,4 @@
-# Angular Essentials
+# Angular Fundamentals
 
 Este curso presenta los fundamentos para comprender y utilizar
 [Angular](https://angular.io) como plataforma de desarrollo web.
