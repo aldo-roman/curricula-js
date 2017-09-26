@@ -128,7 +128,7 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
     <td>https://angular.io/guide/form-validation#reactive-form-validation</td>
   </tr>
   <tr>
-    <th rowspan="2">Lecturas Opcionales</td>
+    <th rowspan="1">Lecturas Opcionales</td>
     <td>Validadores personalizados</td>
     <td>https://angular.io/guide/form-validation#custom-validators</td>
   </tr>
@@ -151,7 +151,7 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
   <td>https://github.com/angular/angularfire2</td>
   </tr>
   <tr>
-    <th rowspan="2">Lecturas Opcionales</td>
+    <th rowspan="1">Lecturas Opcionales</td>
     <td>Cross-Site Request Forgery</td>
     <td>https://en.wikipedia.org/wiki/Cross-site_request_forgery</td>
   </tr>
@@ -165,7 +165,7 @@ El juego tendrá su backend hospedado en [Firebase](https://firebase.google.com/
 
 <table>
   <tr>
-    <th rowspan="2">Lecturas Obligatorias</td>
+    <th rowspan="1">Lecturas Obligatorias</td>
     <td>Enrutamiento y Navegación</td>
     <td>https://angular.io/guide/router</td>
   </tr>
