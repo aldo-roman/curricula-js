@@ -58,23 +58,21 @@ Lecturas obligatorias, absolveremos dudas y haremos ejemplos juntos.
 Las lecturas, código fuente, mensajes de git, discusiones, entre otros
 deberán ser escritas en inglés. :blush:
 
-Los ejercicios publicados serán sometidos a revisión de pares (Code review).
-Revisar el código de tus compañeros será evaluado; sin embargo, recibir
-observaciones o comentarios durante la revisión de pares no afectará tu
-evaluación.
-
-Cada sesión tendrá un ejercicio, que debe ser codificado y publicado antes
-del final del curso.
+Cada sesión tendrá un ejercicio, que debe ser completado antes del final del curso.
+**Para cada ejercicio**:
+ - [x] Codificar
+ - [x] Publicar el código fuente
+ - [x] Desplegar la aplicación en Firebase Hosting
 
 ## Producto
 Construiremos un juego multijugador basado en [Cadáver Exquisito](https://es.wikipedia.org/wiki/Cad%C3%A1ver_exquisito).
 >  Es una técnica usada por los surrealistas en 1925, (...) en el cual los jugadores escriben por turno en una hoja de papel, la doblan para cubrir parte de la escritura, y después la pasan al siguiente jugador para otra colaboración.
+>
 >  Los teóricos y asiduos al juego (...) sostenían que la creación, en especial la poética, debe ser anónima y grupal, intuitiva, espontánea, lúdica y en lo posible automática.
 
-El juego consiste en escribir un texto corto y enviarlo a través de un formulario.
-Cada texto enviado es almacenado en una Base de datos.
-Luego de recibir una cantidad determinada de textos, el juego los une y muestra como un solo texto a los jugadores.
-Los jugadores no pueden saber los textos escritos anteriormente.
+El juego consiste en escribir un texto de manera colaborativa.
+Cada jugador escribe un texto corto sin poder ver los textos de los otros jugadores.
+Luego de que todos los jugadores han participado, se unen los textos uno tras otro y se lee el resultado completo.
 
 El backend estará hospedado en [Firebase](https://firebase.google.com/).
 
@@ -116,7 +114,10 @@ El backend estará hospedado en [Firebase](https://firebase.google.com/).
   </tr>
   <tr>
     <th rowspan="1">Ejercicio</td>
-    <td colspan="2">TBD</td>
+    <td colspan="2">
+    Crear el componente que muestra un texto final. El texto debe ser mostrado en lírica; es decir, como un poema, donde la contribución de cada jugador representa un verso.<br/>
+    El componente debe mostrar los datos desde un arreglo de cadenas de texto.
+    </td>
   </tr>
 </table>
 
@@ -139,7 +140,7 @@ El backend estará hospedado en [Firebase](https://firebase.google.com/).
   </tr>
   <tr>
     <th rowspan="1">Ejercicio</td>
-    <td colspan="2">TBD</td>
+    <td colspan="2">Crear el componente que permite el ingreso de un texto individual. El componente debe hacer uso de formularios reactivos, validar los datos de entrada y añadir los datos ingresados al arreglo local.</td>
   </tr>
 </table>
       
@@ -162,7 +163,10 @@ El backend estará hospedado en [Firebase](https://firebase.google.com/).
   </tr>
   <tr>
     <th rowspan="1">Ejercicio</td>
-    <td colspan="2">TBD</td>
+    <td colspan="2">
+      Crear un servicio que envíe cada contribución al backend como texto corto y recibe el texto completo cuando el juego ha terminado.<br/>
+      Cuando el juego termina, se debe mostrar el texto completo en el componente creado anteriormente.
+    </td>
   </tr>
 </table>
 
@@ -176,7 +180,11 @@ El backend estará hospedado en [Firebase](https://firebase.google.com/).
   </tr>
   <tr>
     <th rowspan="1">Ejercicio</td>
-    <td colspan="2">TBD</td>
+    <td colspan="2">
+      Crear un servicio que reciba desde el backend una lista con todos los juegos anteriormente terminados.<br/>
+      Crear un componente que muestre dicha lista al usuario.<br/>
+      Crear dos rutas, una para la vista de resumen y otra para la vista de detalle, donde se muestra un único texto completo.
+    </td>
   </tr>
 </table>
 
